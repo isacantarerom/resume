@@ -9,7 +9,7 @@ const skillsData = [
       },
       {
         subtitle: "XR & Game Development",
-        skills: ["Unity", "MRTK Toolkit", "StereoKit"]
+        skills: ["Unity", "MRTK Toolkit", "StereoKit", "HLSL"]
       },
       {
         subtitle: "Web Frameworks & Libraries",
@@ -73,7 +73,7 @@ const skillsData = [
     groups: [
       {
         subtitle: "Currently Expanding",
-        skills: ["Kubernetes", "HLSL" , "C++" , "Python"]
+        skills: ["C++" , "Python"]
       }
     ]
   }
