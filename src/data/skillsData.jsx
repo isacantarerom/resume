@@ -76,6 +76,16 @@ const skillsData = [
         skills: ["C++" , "Python"]
       }
     ]
+  },
+  {
+    title: "Licenses & certifications",
+    icon: "🧠",
+    groups: [
+      {
+        subtitle: "Continuous Learning & Growth",
+        skills: ["Programming in C++" , "Software Design and Architecture Specialization", "Google Project Management"]
+      }
+    ]
   }
 ];
 
