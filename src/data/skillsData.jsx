@@ -4,16 +4,16 @@ const skillsData = [
     icon: "💻",
     groups: [
       {
-        subtitle: "Frontend & Backend Languages",
-        skills: ["C#", "Java", "JavaScript", "TypeScript", "HTML", "CSS"]
+        subtitle: "Frontend Languages & Frameworks",
+        skills: ["C#", "JavaScript", "TypeScript", "HTML", "CSS", "React", "Oracle Jet"]
+      },
+      {
+        subtitle: "Backend Frameworks & Databases",
+        skills: ["Java", "C++", "python", "Django", "MySQL"]
       },
       {
         subtitle: "XR & Game Development",
         skills: ["Unity", "MRTK Toolkit", "StereoKit", "HLSL"]
-      },
-      {
-        subtitle: "Web Frameworks & Libraries",
-        skills: ["Oracle Jet", "Knockout", "RequireJS", "React"]
       }
     ]
   },
@@ -73,7 +73,7 @@ const skillsData = [
     groups: [
       {
         subtitle: "Currently Expanding",
-        skills: ["C++" , "Python"]
+        skills: ["C++" , "Python", "Django", "MySQL"]
       }
     ]
   },
@@ -82,8 +82,13 @@ const skillsData = [
     icon: "🧠",
     groups: [
       {
-        subtitle: "Continuous Learning & Growth",
+        subtitle: "My Specializations",
         skills: ["Programming in C++" , "Software Design and Architecture Specialization", "Google Project Management"]
+      },
+      {
+        subtitle: "Courses",
+        skills: ["Django Web Framework", "Programming in Python", "Service Oriented Architecture", 
+          "Object-Oriented Design", "Design Patterns", "Software Architecture"]
       }
     ]
   }
