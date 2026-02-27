@@ -9,7 +9,7 @@ const skillsData = [
       },
       {
         subtitle: "Backend Frameworks & Databases",
-        skills: ["Java", "C++", "python", "Django", "MySQL"]
+        skills: ["Java", "C++", "python", "Django", "MySQL", "SpringBoot", "gradle"]
       },
       {
         subtitle: "XR & Game Development",
@@ -72,8 +72,12 @@ const skillsData = [
     icon: "🚀",
     groups: [
       {
-        subtitle: "Currently Expanding",
-        skills: ["C++" , "Python", "Django", "MySQL"]
+        subtitle: "Currently Expanding Backend Skills on:",
+        skills: ["C++" , "Python", "Django", "MySQL", "SpringBoot", "gradle"]
+      },
+      {
+        subtitle: "Currently Taking Courses on:",
+        skills: ["Meta Back-End Developer", "Spring Boot REST API with Java & Gradle"]
       }
     ]
   },
