@@ -4,15 +4,17 @@ function HeroPitch() {
          <section className="container-fluid px-4 py-5 hero-card">
             <div className="row">
                 <div className="col-12">
-                <h4>  I've built immersive visuals in mixed reality 👾, crafted intuitive web interfaces 💻, and now I'm diving deep into backend systems.🚀  </h4>
                 <p className="lh-sm text-center text-md-start">
-                    I thrive in cross-functional teams where curiosity meets execution. I believe great software should feel effortless no matter the story it’s telling through code.
+                    Full-stack Software Engineer with 6+ years building across frontend and backend. Designed, implemented, and tested
+                    features for Oracle Fusion Cloud ERP, an enterprise platform used by organizations globally, implemented features and
+                    rapid prototyping for performance and interaction evaluation on Microsoft Mesh, and shipped production features to
+                    Qualcomm hardware deployed worldwide. Comfortable owning a REST API or a real-time 3D component. Quick to ramp on
+                    new stacks and currently deepening backend expertise across Python, Django, and Spring.                
                 </p>
-                <p className="lh-sm text-center text-md-start">
-                    I bring a full-stack mindset, a collaborative spirit, and a knack for taming chaos with sticky notes and my daily planner. I adapt fast, communicate with tact, and approach every challenge from multiple angles because the best solutions aren’t just clever, they’re clear. 
-                </p>
+                <br/>
                 <p className="hero-invite">
-                    If you’re building something bold, human-centered, and technically elegant, I might just be the wildcard your team didn’t know it needed.
+                    🚀 Long-Term Direction:
+                    Becoming a backend-strong full-stack engineer with architectural depth designing systems, not just features.
                 </p>
                 </div>
             </div>

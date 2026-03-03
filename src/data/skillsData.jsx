@@ -76,7 +76,7 @@ const skillsData = [
         skills: ["C++" , "Python", "Django", "MySQL", "SpringBoot", "gradle"]
       },
       {
-        subtitle: "Currently Taking Courses on:",
+        subtitle: "Currently Working Towards Specializations:",
         skills: ["Meta Back-End Developer", "Spring Boot REST API with Java & Gradle"]
       }
     ]
@@ -88,11 +88,6 @@ const skillsData = [
       {
         subtitle: "My Specializations",
         skills: ["Programming in C++" , "Software Design and Architecture Specialization", "Google Project Management"]
-      },
-      {
-        subtitle: "Courses",
-        skills: ["Django Web Framework", "Programming in Python", "Service Oriented Architecture", 
-          "Object-Oriented Design", "Design Patterns", "Software Architecture"]
       }
     ]
   }
